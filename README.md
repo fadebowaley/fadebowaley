@@ -59,7 +59,7 @@
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>
-  How to reach me <strong><a href="mailto:me@fadebowaley.me">me@fadebowaley.me</a></strong></p>
+  How to reach me <strong><a href="mailto:fadebowaley@gmail.com">fadebowaley@gmail.com</a></strong></p>
 </li>
 </ul>
 
@@ -82,7 +82,22 @@
 <p dir="auto"><a href="https://www.buymeacoffee.com/fadebowaley" rel="nofollow"> <img align="left" src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" height="50" width="210" alt="CodeBucks" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="max-width: 100%;"></a></p><br><br>
 
 </article>
+
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=fadebowaley&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=fadebowaley&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=fadebowaley&show_icons=true" />
+</picture>
   </div>
+
+
 
 <!--
 **fadebowaley/fadebowaley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
