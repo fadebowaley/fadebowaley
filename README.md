@@ -7,7 +7,8 @@
     <li>📚 Courses I've completed 
       <ul>
         <li><b>Havard University CS50 </b><a href="https://www.edx.org/course/cs50s-computer-science-for-business-professionals?g_acctid=724-505-4034&g_campaign=gs-b2c-nonbrand-tier1geo-partner-harvard-core&g_campaignid=15417765031&g_adgroupid=131210224518&g_adid=565368056846&g_keyword=&g_keywordid=dsa-1432070230256&g_network=g&utm_source=google&utm_campaign=gs-b2c-nonbrand-tier1geo-partner-harvard-core&utm_medium=cpc&utm_term=&hsa_acc=7245054034&hsa_cam=15417765031&hsa_grp=131210224518&hsa_ad=565368056846&hsa_src=g&hsa_tgt=dsa-1432070230256&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiAsYyRBhACEiwAkJFKonoZ5c9chKUyfw0X8hwE1sIfbnoWpu5fd0g4lBVKw_8YXbe-QjDwHxoCbHUQAvD_BwE">Introduction to Computer Programming</a></li>
-         <li><b> Udacity Nano Degree </b><a href="https://graduation.udacity.com/api/graduation/certificate/UTWPKPMJ/download"> AWS Machine Learning Foundations</a></li>
+         <li><b> Udacity Fullstack NanoDegree </b><a href="https://graduation.udacity.com/api/graduation/certificate/UTWPKPMJ/download"> Udacity Fullstack NanoDegree</a></li>
+                 <li><b> Udacity Nano Degree </b><a href="https://graduation.udacity.com/api/graduation/certificate/UTWPKPMJ/download"> AWS Machine Learning Foundations</a></li>
         <li><b>Javascripts Programming and Data Structures </b><a href="https://www.freecodecamp.org/certification/fadebowaley/javascript-algorithms-and-data-structures">300 Hours Freecode Camp Courses </a> </li>
         <li><b>Web and Responsive Designs </b><a href="https://www.freecodecamp.org/certification/fadebowaley/responsive-web-design">300 Hours Developers Certification by FreecodeCamp </a> </li>
         <li><b>Python Automation Certification </b> <a href="https://www.coursera.org/account/accomplishments/professional-cert/8MLCHC345YYC?utm_product=prof">Automation with Python Certification</a></li>
