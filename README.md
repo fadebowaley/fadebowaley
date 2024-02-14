@@ -2,10 +2,11 @@
 <h1> 👋 Hi, I’m @fadebowaley </h1>
 
 <ul dir="auto">
-  <li>🧑‍💻 I work as Fullstack Developer and co-founded <b> 💼 <a href="https://brvcase.com"> @brvcase,</a> and 🦜<a href="https://brvcase.com"> @quickito</a></b>  </li>
+  <li>🧑‍💻 I work as Software Engineer and co-founded <b> 💼 <a href="https://brvcase.com"> @brvcase,</a> and 🦜<a href="https://brvcase.com"> @quickito</a></b>  </li>
   <p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png"</g-emoji> 
     <li>📚 Courses I've completed 
       <ul>
+        <li><b> Computer Science for Artificial Intelligence </b><a href="https://credentials.edx.org/credentials/39c7129a9b604e7eac329e4b22d1cea8/"> Harvard University CS50 </a></li>
         <li><b>Havard University CS50 </b><a href="https://www.edx.org/course/cs50s-computer-science-for-business-professionals?g_acctid=724-505-4034&g_campaign=gs-b2c-nonbrand-tier1geo-partner-harvard-core&g_campaignid=15417765031&g_adgroupid=131210224518&g_adid=565368056846&g_keyword=&g_keywordid=dsa-1432070230256&g_network=g&utm_source=google&utm_campaign=gs-b2c-nonbrand-tier1geo-partner-harvard-core&utm_medium=cpc&utm_term=&hsa_acc=7245054034&hsa_cam=15417765031&hsa_grp=131210224518&hsa_ad=565368056846&hsa_src=g&hsa_tgt=dsa-1432070230256&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiAsYyRBhACEiwAkJFKonoZ5c9chKUyfw0X8hwE1sIfbnoWpu5fd0g4lBVKw_8YXbe-QjDwHxoCbHUQAvD_BwE">Introduction to Computer Programming</a></li>
          <li><b> Udacity Fullstack NanoDegree </b><a href="https://graduation.udacity.com/api/graduation/certificate/UTWPKPMJ/download"> Udacity Fullstack NanoDegree</a></li>
                  <li><b> Udacity Nano Degree </b><a href="https://graduation.udacity.com/api/graduation/certificate/UTWPKPMJ/download"> AWS Machine Learning Foundations</a></li>
