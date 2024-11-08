@@ -52,7 +52,7 @@
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> 
-  Ask me about <strong>Python, Java, JavaScripts, (Nodejs, React and NextjS)</strong></p>
+  Ask me about <strong>Python, JavaScripts, (Nodejs, React and NextjS) and Devops </strong></p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>
