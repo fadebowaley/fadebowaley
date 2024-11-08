@@ -43,7 +43,6 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="" data-canonical-src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></a></p>
 
 <br>
-<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e71ed38cb2185ef4d7f0c60fc71d36127eade0cd13c9dd9c2d3184e7f6b4c629/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d636f64656275636b733237266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/e71ed38cb2185ef4d7f0c60fc71d36127eade0cd13c9dd9c2d3184e7f6b4c629/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d636f64656275636b733237266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="codebucks27" data-canonical-src="https://komarev.com/ghpvc/?username=codebucks27&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 
 
 <ul dir="auto">
@@ -73,7 +72,7 @@
     <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="arrow_forward" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/25b6.png">💌</g-emoji> Connect with me:</h3>
 <p align="left" dir="auto">
   <a href="https://www.youtube.com/c/fadebowaley" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/youtube.svg" alt="fadebowaley" height="30" width="40" style="max-width: 100%;"></a>
-  <a href="https://dev.to/fadebowaley" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/f8e0e616833ecf1134ef8a02ca76725f9e83fcc505ed82e8fa88fab9d836726d/68747470733a2f2f6432666c746978307632653073622e636c6f756466726f6e742e6e65742f6465762d7261696e626f772e737667" alt="codebucks27" height="30" width="40" data-canonical-src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" style="max-width: 100%;"></a>
+
   <a href="https://instagram.com/fadebowaley" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/instagram.svg" alt="fadebowaley" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://twitter.com/fadebowaley" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/twitter.svg" alt="fadebowaley" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://fb.com/fadebowaley" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/facebook.svg" alt="fadebowaley" height="30" width="40" style="max-width: 100%;"></a>
@@ -81,7 +80,7 @@
 
 <br>
 <h3 align="left" dir="auto"><a id="user-content--support" class="anchor" aria-hidden="true" href="#-support"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="arrow_forward" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/25b6.png">👋</g-emoji> Support me:</h3>
-<p dir="auto"><a href="https://www.buymeacoffee.com/fadebowaley" rel="nofollow"> <img align="left" src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" height="50" width="210" alt="CodeBucks" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="max-width: 100%;"></a></p><br><br>
+<p dir="auto"><a href="https://www.buymeacoffee.com/fadebowaley" rel="nofollow"></a></p><br><br>
 
 
 
